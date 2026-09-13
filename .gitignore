@@ -1,0 +1,13 @@
+.pio/
+backups/
+artifacts/
+include/secrets.h
+.playwright-cli/
+output/
+
+__pycache__/
+*.py[cod]
+*.zip
+gateway.json
+.env
+.env.*
